@@ -109,9 +109,9 @@ Key contributions:
 
 ## GitHub Stats
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bdemxn&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bdemxn&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
